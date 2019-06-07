@@ -101,16 +101,16 @@ p {
     justify-content: space-evenly;
 }
 
-.middle-content .boxes .box {
-    width: 12.5%;
-    height: 100px;
-    background: black;
-    margin: 20px 2.5%;
-    color: white;
+header nav {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    padding-bottom: 50px;
+    justify-content: space-between;
 }
+
+header nav a {
+    color: black;
+}
+
 .middle-content .boxes .box1 {
     width: 12.5%;
     height: 100px;
@@ -148,7 +148,7 @@ p {
     width: 12.5%;
     height: 100px;
     background: coral;
-    margin: 20px 2.5%;
+    margin: 20px 2.5%;8
     color: white;
     display: flex;
     align-items: center;
