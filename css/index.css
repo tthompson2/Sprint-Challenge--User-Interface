@@ -253,3 +253,21 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* About Page CSS */
+
+.container-about {
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;
+}
+
+.container-firstLayer {
+    padding-top: 15px;
+    display: flex;
+}
+
+.container-secondLayer {
+
+    display: flex;
+    padding-top: 15px;
+}
