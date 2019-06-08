@@ -109,6 +109,8 @@ header nav {
 
 header nav a {
     color: black;
+    text-decoration: none;
+    padding-top: 20px;
 }
 
 .middle-content .boxes .box1 {
@@ -307,6 +309,7 @@ footer nav a {
 .paragraph-divs {
     padding-bottom: 15px;
 }
+
 
 button {
     background-color: white;
