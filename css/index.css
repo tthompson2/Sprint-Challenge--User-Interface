@@ -150,7 +150,7 @@ header nav a {
     width: 12.5%;
     height: 100px;
     background: coral;
-    margin: 20px 2.5%;8
+    margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
@@ -274,29 +274,17 @@ footer nav a {
     padding-top: 55px;
 }
 
-.container-firstLayer .container-strategy1 {
+.container-firstLayer .container-strategy {
 
    border-bottom: 1px dashed black;
-   padding-bottom: 15px;
+   padding-bottom: 25px;
 }
 
-.container-firstLayer .container-strategy2 {
-    
-    border-bottom: 1px dashed black;
-    padding-bottom: 15px;
-}
-
-.container-secondLayer .container-strategy3 {
+.container-secondLayer .container-strategy {
 
     border-bottom: 1px dashed black;
-    padding-bottom: 15px;
-}
-
-.container-secondLayer .container-strategy4 {
-
-    border-bottom: 1px dashed black;
-    border-bottom: 15px;
-}
+    padding-bottom: 25px;
+ }
 
 .container-together {
 
@@ -318,6 +306,7 @@ button {
     border-radius: 10px;
     width: 100px;
     height: 50px;
+    border-color: black;
 }
 
  h2 {
